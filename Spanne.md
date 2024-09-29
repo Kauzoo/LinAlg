@@ -1,0 +1,1 @@
+Die Linie durch Spitze und Fuß eines Vektors.

@@ -1,0 +1,1 @@
+- Linearfaktorzerlegung / Polynomdivision um Eigenwerte zu berechnen
